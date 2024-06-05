@@ -1,0 +1,43 @@
+.container{
+    padding: 0.6 rem;
+    display: flex;
+    flex-direction: row;
+    background-color: #0f0f0f;
+    font-family: Lovechild-Regular;
+    font-size: 20px;
+    justify-content: center;
+    letter-spacing: 3px;
+    font-weight: 900;
+    color: #f7f4f5;
+    list-style-type: none;
+    text-decoration: none;
+
+   
+
+.opcion {
+justify-content: space-around;
+height: 70px;
+width: 180px;
+
+
+
+a {
+    padding: 10px;color: #eacdc2;
+    text-decoration: none;
+    list-style-type: none;
+
+   
+}
+
+
+&:hover {
+    background-color: #5c5db4;
+    font-size:large;
+    color: #f9f9f9;
+    text-decoration: none;
+    list-style-type: none;
+ 
+
+}
+}
+}

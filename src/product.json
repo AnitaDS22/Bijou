@@ -1,0 +1,99 @@
+[
+    {
+        "id": "1",
+        "imagen": "./src/assets/collarblanco.jpg",
+        "description":"Collar Blanco",
+        "category": "collar",
+        "price": 1000,
+        "count": 10
+    
+    },
+    
+    {
+        "id": "2",
+        "imagen": "./src/assets/aros2.jpg",
+        "description":"Aros azules",
+        "category": "Aros",
+        "price": 1000,
+        "count": 10
+    
+    },
+    
+    {
+        "id": "3",
+        "imagen": "./src/assets/collarazul.jpg",
+        "description":"Collar azul y celeste",
+        "category": "collar",
+        "price": 3000,
+        "count": 10
+    
+    },
+    {
+        "id": "4",
+        "imagen": "./src/assets/collarmulticolor.jpg",
+        "description":"Collar multicolor veraniego",
+        "category": "collar",
+        "price": 3500,
+        "count": 10
+    },
+    
+    {
+        "id": "5",
+        "imagen": "./src/assets/conjunto1.jpg",
+        "description":"conjunto 1 negro",
+        "category": "Conjunto",
+        "price": 6000,
+        "count": 10
+    },
+    
+    {
+        "id": "6",
+        "imagen": "./src/assets/conjunto3.jpg",
+        "description":"Conjunto 3 pulcera y aros",
+        "category": "Conjunto",
+        "price": 8000,
+        "count": 10
+    },
+    
+    {
+        "id": "7",
+        "imagen": "./src/assets/pulcera2.jpg",
+        "description":"pulcera multicolor",
+        "category": "Pulcera",
+        "price": 900,
+        "count": 10
+    },
+    {
+        "id": "8",
+        "imagen": "./src/assets/pulcera4.jpg",
+        "Description":"Duo pulceras",
+        "category": "Pulcera",
+        "price": 1200,
+        "count": 10
+    },
+    {
+        "id": "9",
+        "imagen": "./src/assets/collartriangulo.jpg",
+        "Description":"Collar triangulo dorado",
+        "category": "collar",
+        "price": 9500,
+        "count": 10
+    },
+    {
+        "id": "10",
+        "imagen": "./src/assets/collarpor2.jpg",
+        "Description":"Collar duo",
+        "category": "collar",
+        "price": 7500,
+        "count": 10
+    },
+    {
+        "id": "11",
+        "imagen": "./src/assets/aros3.jpg",
+        "Description":"Aros triangulo",
+        "category": "Aros",
+        "price": 1500,
+        "count": 10
+    }
+    
+    ]

@@ -1,0 +1,56 @@
+.styles.sectionBody{
+background-color: #26105d;
+}
+
+.introduction {
+   background-color: #5c5db4;
+    color: #f9f9f9;
+    font-family:Inspire;
+    font-size:30px;
+    letter-spacing: 3px;
+    font-weight: 500;
+    grid-area: auto;
+    line-height: 40px;
+   
+
+}
+
+.imageness{
+
+display: flex;
+align-items: flex-end;
+ gap: 10px;
+ margin: 5px;
+ background-color: #26105d;
+
+.imagencentral {
+
+    box-shadow: #5c5069 0px 0px 10px 0px;
+    display: flex;
+    align-items: flex-end;
+    font-size: 14px;
+    text-align: left;
+    grid-area: auto;
+    line-height: 20px;
+    margin: 0px 0px 20px;
+    
+}
+
+}
+
+.BodyCenter {
+    display: flex;
+    flex-wrap: wrap;
+gap: 14px;
+color: #f9f9f9;
+font-family:Inspire;
+text-align: center;
+font-size:60px;
+letter-spacing: 3px;
+font-weight: 700;
+grid-area: auto;
+line-height: 63px;
+
+
+
+}

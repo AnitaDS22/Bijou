@@ -1,0 +1,77 @@
+.cardContainer{
+padding-top: 5px;
+max-width: 60%;
+
+
+
+.productCard{
+background-color: black;
+text-align: center;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+border: 5px solid #5c5db4;
+flex: 1 0 140px;
+line-height: 3px;
+text-transform: uppercase;
+
+
+
+
+.productImagen{
+border-radius: 12px;
+max-width: 100%;
+height: auto;
+margin: auto;
+
+
+}
+
+.productNombre{
+
+    color: #a7134b;
+    font-size: 2.8rem;
+
+}
+}
+
+.productDetails {
+    border: 1px solid black;
+   display: flex;  
+  flex-direction: column;
+  margin: 0.5rem 5%;
+    align-items:center;
+    color:#a7134b;
+    
+
+
+    
+    .descripcion{
+        color: #ded8da;
+        font-size: 0.9rem;
+        line-height: 0.5px;
+        align-content: center;
+     
+
+    }
+
+    .precio{
+
+        color: hsl(338, 82%, 54%);
+        align-content: center;
+        font-size: 1.2rem;
+        padding-bottom: 0.1rem;
+
+
+    }
+
+
+
+}
+
+.heartProd{
+    padding-bottom: 15rem;
+   
+    } 
+    
+}

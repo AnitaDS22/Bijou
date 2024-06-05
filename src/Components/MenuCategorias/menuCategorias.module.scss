@@ -1,0 +1,39 @@
+.menuCategoriasList {
+    list-style-type: none; // Esto elimina los puntos por defecto
+    padding: 0.8rem;
+    size: 1rem;
+    display: flex;
+    flex-direction: row;
+   
+  }
+  
+  .menuCategorias {
+    align-items: center;
+    background-color:#26105d;
+    border-radius:4px;
+    color: #f9f9f9;
+    display: inline-flex;
+    font-family:Inspire;
+    font-size:20px;
+    justify-content: center;
+    letter-spacing: 8px;
+    line-height:18px;
+    margin:20px 0px 0px;
+    padding: 20.5px 33px;
+    text-align:center;
+    text-transform:uppercase;
+    border: none;
+
+   
+ 
+    &:hover {
+      // background-color: transparent;
+      background-color: #3a147f;
+    }
+
+
+
+
+
+  }
+  

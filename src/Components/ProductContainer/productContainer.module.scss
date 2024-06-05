@@ -1,0 +1,45 @@
+
+.productSection {
+background-color: #060606;
+border-radius: 16px ; 
+margin: 3.5rem;
+display:content;
+
+
+.productTittle {
+    margin-bottom: 12px;
+    color: #eacdc2;
+
+}
+
+ .productContainer {
+    display: flex;
+    flex-wrap:wrap;
+     gap: 5px;
+    
+
+
+}
+
+
+
+@media (min-width: 760px){
+.productSection{
+width: 740px;
+
+}
+
+
+}
+
+@media (min-width: 990px){
+    .productSection{
+    width: 970px;
+    
+    }
+    
+    
+    }
+
+
+}

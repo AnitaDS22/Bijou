@@ -1,0 +1,49 @@
+.megusta {
+display: flex;
+ flex-direction: row;
+
+
+}
+
+
+.botones {
+
+    align-items: center;
+    background-color:#26105d;
+    border-radius:4px;
+    color: #f9f9f9;
+    display: inline-flex;
+    font-family:Inspire;
+    font-size: 20px;
+    justify-content: center;
+    letter-spacing: 5px;
+    line-height:18px;
+    margin:20px 0px 0px;
+    padding: 20.5px 33px;
+    text-align:center;
+    text-transform:uppercase;
+
+   
+ 
+    &:hover {
+      // background-color: transparent;
+      background-color: #4754a1;
+    }
+
+
+//     align-items: center;
+//     background-color: #372549;
+// font-size: 14px;
+// font-weight: 900;
+//     color: blanchedalmond; 
+//     border-radius: 10px;
+//     font-family: Lovechild-Regular;
+//     justify-content: space-around;
+//     line-height: 26px;
+//     padding: 10px 20px;
+//     text-align: center;
+  
+
+
+}
+
